@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="com.google.zxing:core" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.ibm.icu:icu4j" />
+          <option value="com.lowagie:itext" />
+          <option value="commons-logging:commons-logging" />
+          <option value="javax.xml.soap:saaj-api" />
+          <option value="jaxen:jaxen" />
+          <option value="org.apache.velocity:velocity-engine-core" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
